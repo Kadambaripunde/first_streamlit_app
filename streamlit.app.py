@@ -6,6 +6,7 @@ streamlit.text('breakfast, dinner & lunch')
 streamlit.text('🥋,📓 ')
 streamlit.header('🥋 - Shirt,📓 - Book')
 
+import pandas
 
 
 
